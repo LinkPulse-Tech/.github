@@ -11,12 +11,11 @@ At LinkPulse Tech, we're not just a tech company; we're the architects of digita
 ### 1. E-commerce Mobile Apps 📱
 - **Stylista:** Elevate your shopping experience with our stylish and intuitive mobile app.
 - **EatA lot:** Explore a world of culinary delights with our feature-rich food delivery app.
-- **TunnelFlex VPN** A new Vitual Private Network developed for users free of charge.
-- **TunnelFlex HTTP Protocol** A Free HTTP Protocol.
 
 ### 2. VPN Solutions 🔒
-- **OmniConnect:** Ensuring a secure and private online experience for our users.
-
+- **TunnelFlex VPN** A new Vitual Private Network developed for users free of charge.
+- **TunnelFlex HTTP Protocol** A Free HTTP Protocol.
+- 
 ### 3. SSH/TCP Tunnels 🚇
 - **TunnelCraft:** Establish secure connections with our tunneling solutions.
 
