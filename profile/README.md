@@ -1,4 +1,4 @@
-# 🚀LinkPulse Tech 🌐
+# LinkPulse Tech 🌐
 
 Welcome to LinkPulse Tech – your mobile app maestros! 📱 We specialize in crafting exceptional experiences using Flutter for sleek frontends and GoLang for robust backends – a dynamic duo proven by Google. If you've got a killer app idea, we're all ears! 🎧 Propose your project, and let's turn your vision into a digital reality. Elevate your app game with TechFlex – where innovation meets expertise! ✨
 
